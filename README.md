@@ -56,7 +56,3 @@ http://localhost/quiz-application-system/
 B.Tech CSE, Graphic Era Deemed University  
 Intern at Instruments Research & Development Establishment (IRDE), DRDO  
 Guided by Mr. Sanjeev Shekhar (Scientist ‘F’)
-
-## License
-
-This project was developed as part of an academic internship and is not currently licensed for open-source reuse.
